@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 
-
 # leemos el csv
 # ! IMPORTANTE: primero hay que correr extraction.py para obtener los datos crudos y que este codigo funcione
 df = pd.read_csv(Path("dataset/raw_StormEvents_details.csv"))
