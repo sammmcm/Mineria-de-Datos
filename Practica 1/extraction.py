@@ -13,8 +13,6 @@ for df_chunk in pd.read_csv(Path(download_path) / "StormEvents_details.csv" / "S
     df_list.append(df_chunk)
 
 df_complete = pd.concat(df_list, ignore_index=True)
-print()
-print(len(df_complete))
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 dataset_dir = BASE_DIR / "dataset"
