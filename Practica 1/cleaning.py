@@ -57,7 +57,6 @@ print("\nLe cambiaremos el nombre a cz_name a region_name para que quede más cl
 df_filtered = df_filtered.rename(columns={"cz_name": "region_name"})
 print("Columnas finales: ", df_filtered.columns)
 
-
 print("\nVemos si los tipos de datos del dataset estan bien casteados")
 print(df_filtered.info())
 """ 
