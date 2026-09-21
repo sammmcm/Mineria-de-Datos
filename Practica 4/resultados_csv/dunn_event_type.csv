@@ -1,0 +1,46 @@
+grupo_1,grupo_2,p_adj,significativo
+Drought,Flood,0.0,True
+Drought,Strong Wind,0.0,True
+Excessive Heat,Flood,0.0,True
+Drought,Tornado,0.0,True
+Excessive Heat,Strong Wind,0.0,True
+Extreme Cold/Wind Chill,Strong Wind,0.0,True
+Extreme Cold/Wind Chill,Tornado,0.0,True
+Excessive Heat,Tornado,0.0,True
+Flood,Heat,0.0,True
+Flood,Heavy Snow,0.0,True
+Flood,Marine Thunderstorm Wind,0.0,True
+Flood,Strong Wind,0.0,True
+Flood,Tornado,0.0,True
+Heavy Rain,Tornado,0.0,True
+Heat,Tornado,0.0,True
+Heat,Strong Wind,0.0,True
+Heavy Snow,Strong Wind,0.0,True
+Heavy Snow,Tornado,0.0,True
+Marine Thunderstorm Wind,Strong Wind,0.0,True
+Marine Thunderstorm Wind,Tornado,0.0,True
+Heavy Rain,Strong Wind,0.0,True
+Strong Wind,Tornado,0.0,True
+Flood,Heavy Rain,2.4626085170652884e-214,True
+Extreme Cold/Wind Chill,Flood,6.502473265874075e-190,True
+Heat,Heavy Rain,4.774050296284902e-05,True
+Excessive Heat,Heavy Rain,5.102811401105725e-05,True
+Drought,Heavy Rain,7.07583012083932e-05,True
+Heavy Rain,Marine Thunderstorm Wind,7.77195593472562e-05,True
+Heat,Heavy Snow,0.0011765365449330893,True
+Excessive Heat,Heavy Snow,0.001246689962550329,True
+Drought,Heavy Snow,0.001664255089359129,True
+Heavy Snow,Marine Thunderstorm Wind,0.0018601861998827662,True
+Extreme Cold/Wind Chill,Heat,0.03336135765392485,True
+Excessive Heat,Extreme Cold/Wind Chill,0.03828292197403539,True
+Extreme Cold/Wind Chill,Marine Thunderstorm Wind,0.05022522318401935,False
+Drought,Extreme Cold/Wind Chill,0.06683770902409296,False
+Drought,Marine Thunderstorm Wind,1.0,False
+Drought,Heat,1.0,False
+Excessive Heat,Marine Thunderstorm Wind,1.0,False
+Drought,Excessive Heat,1.0,False
+Extreme Cold/Wind Chill,Heavy Rain,1.0,False
+Extreme Cold/Wind Chill,Heavy Snow,1.0,False
+Excessive Heat,Heat,1.0,False
+Heavy Rain,Heavy Snow,1.0,False
+Heat,Marine Thunderstorm Wind,1.0,False
